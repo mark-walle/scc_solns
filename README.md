@@ -1,0 +1,1 @@
+My solutions the [Scope Chain and Closures Workshop](https://github.com/workshopper/scope-chains-closures) form the Nodeschool Workshopper.
